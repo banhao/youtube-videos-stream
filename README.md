@@ -24,7 +24,7 @@ Test results:
 	Python3 + Chrome	|	passed		|	haven't installed the chrome 
 ------------------------------------------------------------------------
 
-I didn't tested in IE and Edge, because I rarely use that 2 browers.
+I didn't test in IE and Edge, because I rarely use that 2 browers.
 
 Notice: The script will read the Links from the URL List and use the browser to load the page, so that's why need to sleep 10 seconds. But this time depend on your network and computer performance. If you adjest it to a small number and no enough for the browser to load the page the script will get error.  
 
