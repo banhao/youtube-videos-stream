@@ -5,7 +5,7 @@ Based on my another Python script https://github.com/banhao/scrape-youtube-chann
 	
 	python3 youtube-videos-stream.py CBCtv-202001011120.list
 	
-	example result CBCtv-videos-stream.list was uploaded.
+Example result CBCtv-videos-stream.list was uploaded.
 
 This can be run in Windows or Linux. but don't use the 'root' to run the script in Linux, because seems in Linux you can't use 'root' account to open a browser.
 
